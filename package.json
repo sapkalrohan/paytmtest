@@ -1,0 +1,17 @@
+{
+  "name": "paytm",
+  "version": "1.0.0",
+  "description": "testdescription",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "mysql": "^2.16.0"
+  },
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "rohan",
+  "license": "ISC"
+}
